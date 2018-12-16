@@ -57,7 +57,7 @@ public class OfferController {
 	}
 
 	@RequestMapping("/next")
-	public String futureOffer(Model model) {
+	public String NextOffer(Model model) {
 
 		List<Offer> offer = offerService.getNext();
 		model.addAttribute("offer", offer);

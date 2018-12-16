@@ -9,7 +9,7 @@
 </head>
 <body>
 
-	<table >
+	<table border=1>
 		<caption>2019년 1학기 신청 내역</caption>
 		<thead>
 			<tr>
